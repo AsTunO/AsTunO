@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/AsTunO/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AsTunO/AsTunO/blob/main/dist/github-contribution-grid-snake.svg)
