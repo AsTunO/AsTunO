@@ -2,7 +2,7 @@
 
 ##  👨‍💻 Sou estudante de Sistemas de Informação.
 
-### 🕸️ Minhas Redes
+### 🗣️ Minhas Redes
 
 [<img align="left" alt="AsTunO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AsTunO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,5 +17,12 @@
 <img align="left" alt="AsTunO | Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="AsTunO | HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="AsTunO | CSS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="AsTunO | Git" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="AsTunO | GitHub" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="AsTunO | MySQL" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />
+<img align="left" alt="AsTunO | Java" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+<img align="left" alt="AsTunO | Intellij" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" />
+<img align="left" alt="AsTunO | Pycharm" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg" />
+<img align="left" alt="AsTunO | Eclipse" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/eclipse_94656.png" />
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
