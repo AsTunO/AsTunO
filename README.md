@@ -1,10 +1,13 @@
 # Olá! Eu sou Júlio.
 
-###  👨‍💻 Sou estudante de Sistemas de Informação.
-###  <p>⌨ Técnico em Desenvolvimento de Sistemas.</p>                                         
+<div>
+  
+###  👨‍💻 Sou estudante de Sistemas de Informação. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
+###  <p>⌨ Técnico em Desenvolvimento de Sistemas.</p>                                  
 ###  ☕ E estou me especializando em Java 
+  
+</div>
 
-<img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
 
 
 # 🗣️ Minhas Redes
