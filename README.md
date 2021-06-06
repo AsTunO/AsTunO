@@ -1,4 +1,4 @@
-# Olá! Eu sou Júlio! 
+# Olá! Eu sou Júlio.
 
 ###  👨‍💻 Sou estudante de Sistemas de Informação.
 ###  ⌨ Técnico em Desenvolvimento de Sistemas.
