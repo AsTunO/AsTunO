@@ -28,6 +28,7 @@
 <img align="left" alt="AsTunO | Eclipse" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/eclipse_94656.png" />
 <img align="left" alt="AsTunO | SQL Server" width="22px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 <img align="left" alt="AsTunO | Windows" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
+</br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
