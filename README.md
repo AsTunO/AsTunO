@@ -13,6 +13,6 @@
 
 ### Linguagens e Ferramentas
 <img align="left" alt="AsTunO | VsCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />
-<img align="left" alt="AsTunO | IntelliJ" width="22px" src="https://iconscout.com/icon/intellij-idea" />
+<img align="left" alt="AsTunO | JavaScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
