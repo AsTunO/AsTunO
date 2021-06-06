@@ -2,9 +2,9 @@
 
 <div>
   
-###  👨‍💻 Sou estudante de Sistemas de Informação. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
-###  <p>⌨ Técnico em Desenvolvimento de Sistemas.</p>                                  
-###  ☕ E estou me especializando em Java 
+####  👨‍💻 Sou estudante de Sistemas de Informação. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
+####  ⌨ Técnico em Desenvolvimento de Sistemas.                               
+####  ☕ O problema pode ser apenas um ;
   
 </div>
 
