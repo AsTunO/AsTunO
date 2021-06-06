@@ -12,6 +12,6 @@
 [linkedin]: https://www.linkedin.com/in/jcr2707/
 
 ### Linguagens e Ferramentas
-[<img align="left" alt="AsTunO | VsCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />]
+<img align="left" alt="AsTunO | VsCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
