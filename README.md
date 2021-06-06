@@ -11,12 +11,8 @@
 
 # 🗣️ Minhas Redes
 
-[<img align="center" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</br>
-
-[instagram]: https://www.instagram.com/jcrs_01/
-[linkedin]: https://www.linkedin.com/in/jcr2707/
+<a href="https://www.instagram.com/jcrs_01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jcr2707" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
