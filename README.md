@@ -30,7 +30,7 @@
 <img align="left" alt="AsTunO | Windows" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 </br>
 
-
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsTunO)](https://github.com/anuraghazra/github-readme-stats)
 
 
