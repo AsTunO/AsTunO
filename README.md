@@ -38,5 +38,8 @@
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsTunO)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
