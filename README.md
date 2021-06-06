@@ -9,18 +9,20 @@
 </div>
 
 
-<div>
 # 🗣️ Minhas Redes
 
-[<img align="left" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="top" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </br>
 
 [instagram]: https://www.instagram.com/jcrs_01/
 [linkedin]: https://www.linkedin.com/in/jcr2707/
+
+---
+
 </div>
-<div>
-### Linguagens e Ferramentas
+
+### 🛠️ Linguagens e Ferramentas
 <img align="left" alt="AsTunO | VsCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" />
 <img align="left" alt="AsTunO | JavaScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="AsTunO | Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
