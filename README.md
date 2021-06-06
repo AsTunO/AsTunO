@@ -18,7 +18,7 @@
 <img align="left" alt="AsTunO | HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="AsTunO | CSS" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="AsTunO | Git" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="AsTunO | GitHub" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="AsTunO | GitHub" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="AsTunO | MySQL" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="left" alt="AsTunO | Java" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
 <img align="left" alt="AsTunO | Intellij" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" />
