@@ -29,5 +29,8 @@
 <img align="left" alt="AsTunO | SQL Server" width="22px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 <img align="left" alt="AsTunO | Windows" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
