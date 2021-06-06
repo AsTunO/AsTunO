@@ -1,13 +1,16 @@
 # Olá! Eu sou Júlio.
 
 ###  👨‍💻 Sou estudante de Sistemas de Informação.
-###  ⌨ Técnico em Desenvolvimento de Sistemas.
+###  <p>⌨ Técnico em Desenvolvimento de Sistemas.</p>                                         
 ###  ☕ E estou me especializando em Java 
+
+<img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
+
 
 # 🗣️ Minhas Redes
 
 [<img align="left" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="top" alt="AsTunO | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </br>
 
 [instagram]: https://www.instagram.com/jcrs_01/
