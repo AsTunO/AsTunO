@@ -24,5 +24,6 @@
 <img align="left" alt="AsTunO | Intellij" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" />
 <img align="left" alt="AsTunO | Pycharm" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg" />
 <img align="left" alt="AsTunO | Eclipse" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/eclipse_94656.png" />
+<img align="left" alt="AsTunO | SQL Server" width="22px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
