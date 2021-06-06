@@ -1,8 +1,8 @@
 # Olá! Eu sou Júlio! 
 
-##  👨‍💻 Sou estudante de Sistemas de Informação.
-##  ⌨ Técnico em Desenvolvimento de Sistemas.
-##  ☕ E estou me especializando em Java 
+###  👨‍💻 Sou estudante de Sistemas de Informação.
+###  ⌨ Técnico em Desenvolvimento de Sistemas.
+###  ☕ E estou me especializando em Java 
 
 # 🗣️ Minhas Redes
 
