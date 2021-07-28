@@ -2,7 +2,7 @@
 
 <div>
   
-####  👨‍💻 Sou estudante de Sistemas de Informação. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy.gif">
+####  👨‍💻 Sou estudante de Sistemas de Informação. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/Brk.gif">
 ####  ⌨ Técnico em Desenvolvimento de Sistemas.                               
 ####  ☕ O problema pode ser apenas um Ponto e Vírgula (;)
   
