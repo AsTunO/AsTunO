@@ -43,9 +43,15 @@
 
 </p>
 
-
-
 </br>
+
+
+<div>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/AsTunO/count.svg" />
+</p>
+</div>
 
 ---
 <div>
@@ -53,14 +59,8 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=16&theme=midnight-purple"/>
 </div>
-
+ 
 ---
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
   
-<p align="center"> 
-Visitors count
-<br>
-  <img src="https://profile-counter.glitch.me/AsTunO/count.svg" />
-</p>
-
