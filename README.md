@@ -43,6 +43,8 @@
 
 </p>
 
+
+
 </br>
 
 ---
@@ -55,4 +57,10 @@
 ---
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="center"> 
+Visitors count
+<br>
+  <img src="https://profile-counter.glitch.me/AsTunO/count.svg" />
+</p>
 
