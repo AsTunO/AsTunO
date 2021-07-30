@@ -48,7 +48,7 @@
 
 <div>
 <p align="center"> 
-  Visitors count<br>
+  <b>Visitors Count</b><br>
   <img src="https://profile-counter.glitch.me/AsTunO/count.svg" />
 </p>
 </div>
