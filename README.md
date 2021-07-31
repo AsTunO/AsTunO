@@ -37,14 +37,8 @@
 </br>
 </div>
 
-<div>
-<p align="center"> 
-  <b>Visitors Count</b><br>
-  <img src="https://profile-counter.glitch.me/AsTunO/count.svg" />
-</p>
-</div>
-
 ---
+
 <div>
   <a href="https://github.com/AsTunO">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
