@@ -9,7 +9,7 @@
 </div>
 
 
-# 🗣️ Minhas Redes
+## 🗣️ Minhas Redes
 
 <a href="https://www.instagram.com/jcrs_01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jcr2707" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
 
 </div>
 
-### 🛠️ Linguagens/Ferramentas/SGBDs
+# 🛠️ Linguagens/Ferramentas/SGBDs
 
 </div>
 
