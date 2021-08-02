@@ -5,7 +5,7 @@
 ####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="250px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/200w.gif">
 ####  ➔ ⌨ Systems Development Technician.                               
   
-</div>
+</div >
 
 
 ## 🗣️ My Networks.
