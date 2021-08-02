@@ -6,10 +6,6 @@
 ####  ➔ ⌨ Systems Development Technician.                               
   
 </div >
-
-
----
-
 </div>
 
 # 🛠️ Lenguages/Tools/DBMS
