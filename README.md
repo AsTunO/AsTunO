@@ -1,4 +1,4 @@
-# Hey! I am Júlio.
+# Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div>
   
