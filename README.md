@@ -2,7 +2,7 @@
 
 <div>
   
-####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="260px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/200w.gif">
+####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="300px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/200w.gif">
 ####  ➔ ⌨ Systems Development Technician.                               
   
 </div >
