@@ -8,7 +8,7 @@
 </div >
 </div>
 
-# 🛠️ Lenguages/Tools/DBMS/IDEs
+# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs
 
 </div>
 
