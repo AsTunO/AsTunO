@@ -5,12 +5,10 @@
 ####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="295px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif">
 ####  ➔ ⌨ Systems Development Technician.                               
   
-</div >
 </div>
 
 # <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs
 
-</div>
 
 <div aling="center">
 <p aling="center">
@@ -23,7 +21,6 @@
 <img height="28m" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img height="28m" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
-
 </br>
 </div>
 
