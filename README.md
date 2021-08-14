@@ -9,7 +9,6 @@
 
 # <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs
 
-
 <div aling="center">
 <p aling="center">
 <img height="28em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
