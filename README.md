@@ -1,10 +1,8 @@
 # Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div>
-  
 ####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="295px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif">
 ####  ➔ ⌨ Systems Development Technician.                               
-  
 </div>
 
 # <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs
