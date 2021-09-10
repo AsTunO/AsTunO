@@ -30,8 +30,8 @@
 <div>
   
   <a href="https://github.com/AsTunO">
-  <img height="230m" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="230m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=16&theme=midnight-purple"/>
+  <img height="233m" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="233m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=16&theme=midnight-purple"/>
     
 </div>
 
