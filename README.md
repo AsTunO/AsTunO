@@ -5,7 +5,8 @@
 <img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="190px">
   
   <p> ➔  Information Systems Student. </p>
-  <p> ➔  Systems Development Technician. </p>    
+  <p> ➔  Systems Development Technician. </p>     
+  <p> ➔  Stay Flinston </p>    
   
 </div>
 
