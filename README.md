@@ -2,13 +2,13 @@
 <h1 align="center"> Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div> 
-<img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="190px">
+<img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="290px">
   
-  <p> ➔  Information Systems Student. </p>
-  <p> ➔  Systems Development Technician. </p>     
-  <p> ➔  17y. </p>    
-  <p> ➔  Nothing's impossible. </p>     
-  <p> ➔  Stay Flinston </p>    
+  <p> ➤  Information Systems Student. </p>
+  <p> ➤  Systems Development Technician. </p>     
+  <p> ➤  17y. </p>    
+  <p> ➤  Nothing's impossible. </p>     
+  <p> ➤  Stay Flinston </p>    
   
 </div>
 
