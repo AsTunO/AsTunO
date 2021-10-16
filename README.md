@@ -1,6 +1,7 @@
 <h1 align="center"> Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div> 
+<img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="190px">
   
 ###  ➔ 👨‍💻 Information Systems Student.  
 ###  ➔ ⌨ Systems Development Technician.           
