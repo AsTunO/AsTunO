@@ -7,7 +7,7 @@
   
 </div>
 
-## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
+## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
 
 <div aling="center">
   
@@ -36,7 +36,7 @@
 </p>
 </br>
 
-## My Github Stats
+## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats
 
 <p align="center">
     <a href="https://github.com/AsTunO/github-readme-streak-stats">
