@@ -6,6 +6,8 @@
   
   <p> ➔  Information Systems Student. </p>
   <p> ➔  Systems Development Technician. </p>     
+  <p> ➔  17y. </p>    
+  <p> ➔  Nothing's impossible. </p>     
   <p> ➔  Stay Flinston </p>    
   
 </div>
