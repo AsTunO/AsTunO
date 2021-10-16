@@ -1,13 +1,13 @@
 # Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<div>
+<div> 
   
-####  ➔ 👨‍💻 Information Systems Student. <img align="right" alt="gif" width="295px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif">
+####  ➔ 👨‍💻 Information Systems Student.  <img align="right" alt="gif" width="190px" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif">
 ####  ➔ ⌨ Systems Development Technician.           
   
 </div>
 
-# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs
+## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
 
 <div aling="center">
   
@@ -36,16 +36,21 @@
 </p>
 </br>
 
+## My Github Stats
+
+<p align="center">
+    <a href="https://github.com/AsTunO/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AsTunO's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsTunO&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
+
+<a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/AsTunO/github-readme-activity-graph"><img alt="AsTunO's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsTunO&bg_color=0D1117&color=9e35d2&line=660099&point=FFFFFF&hide_border=true" /></a>
+
 </div>
 
 ---
-
-<div>
-  
-  <a href="https://github.com/AsTunO">
-  <img height="235m" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="235m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=16&theme=midnight-purple"/>
-    
-</div>
 
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
