@@ -4,8 +4,8 @@
 <div> 
 <img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="190px">
   
-  <p> ➔  Information Systems Student. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
-  <p> ➔  Systems Development Technician. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>    
+  <p> ➔  Information Systems Student. </p>
+  <p> ➔  Systems Development Technician. </p>    
   
 </div>
 
