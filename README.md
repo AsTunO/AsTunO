@@ -3,12 +3,12 @@
 <div> 
 <img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="190px">
   
-###  ➔ 👨‍💻 Information Systems Student.  
-###  ➔ ⌨ Systems Development Technician.           
+  <p> ➔ 👨‍💻 Information Systems Student. </p>
+  <p> ➔ ⌨ Systems Development Technician. </p>         
   
 </div>
 
-# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
+<h2> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px">  Lenguages/Tools/DBMS/IDEs </h2>
 
 <div>
   <p>
@@ -36,7 +36,8 @@
   </p>
 </div>
 
-# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats
+<h3 align="center" > <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats </h3>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
   <p align="center">
@@ -54,5 +55,5 @@
   </p>
 </div>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Snake animation](https://github.com/AsTunO/AsTunO/blob/output/github-contribution-grid-snake.svg)
