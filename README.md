@@ -1,16 +1,16 @@
-# Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h1 align="center"> Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div> 
   
-####  ➔ 👨‍💻 Information Systems Student.  
-####  ➔ ⌨ Systems Development Technician.           
+###  ➔ 👨‍💻 Information Systems Student.  
+###  ➔ ⌨ Systems Development Technician.           
   
 </div>
 
-## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
+# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px"> Lenguages/Tools/DBMS/IDEs 
 
-<div aling="center">
-  <p aling="center">
+<div>
+  <p>
     <img height="25em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img height="25em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img height="25em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,7 +35,7 @@
   </p>
 </div>
 
-## <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats
+# <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats
 
 <div>
   <p align="center">
