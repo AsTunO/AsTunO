@@ -13,7 +13,7 @@
 
 
 
-<h2> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px">  Languages/Tools/DBMS/IDEs </h2>
+<h2> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px">  Languages/Frameworks/DBMS/Tools </h2>
 
 <div>
   <p>
