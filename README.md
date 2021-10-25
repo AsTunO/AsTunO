@@ -60,7 +60,6 @@
   <p>
     <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/AsTunO/github-readme-activity-graph"><img alt="AsTunO's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsTunO&bg_color=0D1117&color=9e35d2&line=660099&point=FFFFFF&hide_border=true" /></a>
   </p>
 </div>
 
