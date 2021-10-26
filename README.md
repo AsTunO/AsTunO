@@ -58,8 +58,8 @@
 
 <div>
   <p>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="440px /></a>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="440px /></a>
+    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="430px /></a>
+    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="430px /></a>
   </p>
 </div>
 
