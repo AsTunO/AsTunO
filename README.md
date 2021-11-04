@@ -11,7 +11,25 @@
   
 </div>
 
-<h2> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/giphy-unscreen.gif" width="40px">  Languages/Frameworks/DBMS/Tools </h2>
+<h1 align="center" > <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats </h1>
+
+<div>
+  <p align="center">
+      <a href="https://github.com/AsTunO/github-readme-streak-stats">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AsTunO's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsTunO&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117"/>
+      </a>
+  </p>
+</div>
+
+<div>
+  <p>
+    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" /></a>
+    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" /></a>
+  </p>
+</div>
+      
+      
+<h2>🟣  Languages </h2>
 
 <div>
   <p>
@@ -19,9 +37,14 @@
     <img height="20em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img height="20em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img height="20em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </p>
+</div>
+
+<h2>🟣  Frameworks </h2>
+
+<div>
+  <p>
     <img height="20m" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -37,6 +60,13 @@
     <img height="20m" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  </p>
+</div>
+
+<h2>🟣  DBMS </h2>
+
+<div>
+  <p>
     <img height="20m" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -44,6 +74,15 @@
     <img height="20m" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  </p>
+</div>
+
+<h2>🟣  Tools </h2>
+
+<div>
+  <p>
+    <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -51,23 +90,6 @@
     <img height="20m" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
     <img height="20m" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
-</div>
-
-<h1 align="center" > <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats </h1>
-
-<div>
-  <p align="center">
-      <a href="https://github.com/AsTunO/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AsTunO's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsTunO&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117"/>
-      </a>
-  </p>
-</div>
-
-<div>
-  <p>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px /></a>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px /></a>
   </p>
 </div>
 
