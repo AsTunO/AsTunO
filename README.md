@@ -13,19 +13,16 @@
 
 <h1> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats </h1>
 
-<div>
-  <p align="center">
-      <a href="https://github.com/AsTunO/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AsTunO's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsTunO&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117"/>
-      </a>
-  </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AsTunO&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsTunO&theme=github_dark"/> </p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsTunO&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsTunO&theme=github_dark"/>
 </div>
 
-<div>
-  <p>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsTunO&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" /></a>
-    <a href="https://github.com/AsTunO/github-readme-stats"><img alt="AsTunO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsTunO&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" /></a>
-  </p>
-</div>
+<p align="center"> 
 
+[![AsTunO's github activity graph](https://activity-graph.herokuapp.com/graph?username=AsTunO&theme=gotham)](https://github.com/AsTunO/github-readme-activity-graph&theme=github)
+
+</p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
