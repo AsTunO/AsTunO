@@ -1,7 +1,7 @@
 <h1 align="center"> Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div> 
-<img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/HelloGif.gif" width="260px">
+<img align="right" src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/gifzinho.gif" width="300px">
   
   <p> ➤  Information Systems Student. </p>
   <p> ➤  Systems Development Technician. </p>     
