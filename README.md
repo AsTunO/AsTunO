@@ -25,4 +25,27 @@
 [![AsTunO's github activity graph](https://activity-graph.herokuapp.com/graph?username=AsTunO&theme=gotham)](https://github.com/AsTunO/github-readme-activity-graph&theme=github)
 
 </p>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+```java
+public class Life {
+
+    public static void main(String[] args) {
+
+        Life mylife = new Life();
+        mylife.start();
+
+        while (true) {
+            
+            while(mylife.success == false) {
+                mylife.tryAgain();
+            }
+
+            mylife.victories += 1;
+
+            if (mylife.victories > 1000) {
+                System.out.println("You have won the game!");
+                break;
+            }
+        }
+    }
+} 
