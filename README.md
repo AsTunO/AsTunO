@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! I am Júlio. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Hey! I am Júlio. </h1>
 
 <div> 
   
@@ -12,7 +12,7 @@
   
 </div>
 
-<h1> <img src="https://github.com/AsTunO/AsTunO/blob/main/GitGif/emoji.gif" width="40px"> My Github Stats </h1>
+<h1>  My Github Stats </h1>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AsTunO&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsTunO&theme=github_dark"/> </p>
