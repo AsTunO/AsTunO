@@ -43,7 +43,7 @@ public class Life {
 
             mylife.victories += 1;
 
-            if (mylife.victories > 1000) {
+            if (mylife.victories >= SUCCESS_CONDITION) {
                 System.out.println("You have won the game!");
                 break;
             }
