@@ -28,7 +28,7 @@
 </p>
 
 ```java
-public class Life {
+public class MyLife {
 
     public static void main(String[] args) {
 
