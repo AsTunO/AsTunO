@@ -2,7 +2,6 @@
 
 <div> 
   
-  
   <p> ➤  Information Systems Student. </p>
   <p> ➤  Systems Development Technician. </p>     
   <p> ➤  18y. </p>    
