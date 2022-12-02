@@ -15,8 +15,6 @@
 </div>
 <p align="center"> 
   
-[![AsTunO's github activity graph](https://activity-graph.herokuapp.com/graph?username=AsTunO&theme=gotham)](https://github.com/AsTunO/github-readme-activity-graph&theme=github)
-  
 </p>
 
 ```java
