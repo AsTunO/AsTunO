@@ -14,7 +14,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsTunO&theme=github_dark"/>
 </div>
 <p align="center"> 
-  
 </p>
 
 ```java
